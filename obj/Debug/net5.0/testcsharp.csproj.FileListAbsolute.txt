@@ -1,0 +1,16 @@
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.csproj.AssemblyReference.cache
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.AssemblyInfoInputs.cache
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.AssemblyInfo.cs
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.csproj.CoreCompileInputs.cache
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.exe
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.deps.json
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.runtimeconfig.json
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.runtimeconfig.dev.json
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.dll
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\ref\testcsharp.dll
+C:\Users\daika\Documents\perso\testcsharp\bin\Debug\net5.0\testcsharp.pdb
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.dll
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\ref\testcsharp.dll
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.pdb
+C:\Users\daika\Documents\perso\testcsharp\obj\Debug\net5.0\testcsharp.genruntimeconfig.cache

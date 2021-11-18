@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\daika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\daika\\.nuget\\packages"
+    ]
+  }
+}
